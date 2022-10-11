@@ -1,0 +1,75 @@
+{
+  "id_sptag": "-917018889",
+  "index_page": 0,
+  "name_cl_sptag": "Yuiko Kurugaya",
+  "name_parent": "Anime",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "1533335826",
+  "hc_lt_nortag": "620775511",
+  "hc_lt_sptag": "-1109122110",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1339361273",
+      "hc_lt_id_sptag": "2118729400",
+      "id_img": "LittleBusters_760084_crop2608_1507011586",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicDAWGuTFnxdlw+wNZVCDihPS6qJPmnwL3JKEZVzuRX0pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicDAWGuTFnxdlw+wNZVCDih/fAJ57JrVqGx/dSSAVUiv5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1351830177"
+      ],
+      "lt_id_sptag": [
+        "2049258795",
+        "-917018889",
+        "-370133541",
+        "1675476455"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1351830177",
+      "name_cl_nortag": "Little Busters",
+      "total_img": 66,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "1675476455",
+      "name_cl_sptag": "Komari Kamikita",
+      "name_parent": "Anime",
+      "total": 7
+    },
+    {
+      "id_sptag": "-370133541",
+      "name_cl_sptag": "Mio Nishizono",
+      "name_parent": "Anime",
+      "total": 2
+    },
+    {
+      "id_sptag": "2049258795",
+      "name_cl_sptag": "Rin Natsume",
+      "name_parent": "Anime",
+      "total": 10
+    },
+    {
+      "id_sptag": "-917018889",
+      "name_cl_sptag": "Yuiko Kurugaya",
+      "name_parent": "Anime",
+      "total": 1
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "id_sptag": "-696045158",
+  "index_page": 0,
+  "name_cl_sptag": "Zapp Renfro",
+  "name_parent": "Anime",
+  "total_img": 4,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "1999934046",
+  "hc_lt_nortag": "1316932186",
+  "hc_lt_sptag": "1492296283",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-2075117243",
+      "hc_lt_id_sptag": "282534290",
+      "id_img": "BloodBlockadeBattlefront_672384_crop2608_302989997",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifEm7QxrE2XKGwX4ngPRMQpY0hqPej6ajpyWqSgVvCQGZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifEm7QxrE2XKGwX4ngPRMQp9pbV73yE21G1xBe9WnZASJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1622629413",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-696045158",
+        "-729883027",
+        "-1450260536",
+        "-260062140",
+        "990039523",
+        "1078827483",
+        "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1368645968",
+      "hc_lt_id_sptag": "11768626",
+      "id_img": "BloodBlockadeBattlefront_970840_crop2608_-445827311",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidal1jiQNsDyUETsj159cQZ3CJoNoVlU/ABzO0WYKuB1pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidal1jiQNsDyUETsj159cQZT6sHLE6y3iCPP8UTpWBfIZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "1622629413"
+      ],
+      "lt_id_sptag": [
+        "-696045158",
+        "-2057294372",
+        "256951417"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1161450724",
+      "hc_lt_id_sptag": "-665436644",
+      "id_img": "BloodBlockadeBattlefront_672351_crop2608_630293344",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiejA+Pd9chZYi+HmTZ0RbC+lw5oSJgGKFz9uRJy1alNo5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiejA+Pd9chZYi+HmTZ0RbC+wKvHItFVOLfEjP89xgh6o5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1575827177",
+        "1622629413"
+      ],
+      "lt_id_sptag": [
+        "-696045158",
+        "846928483",
+        "-2057294372",
+        "891993278",
+        "256951417",
+        "990039523"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1368645968",
+      "hc_lt_id_sptag": "958776251",
+      "id_img": "BloodBlockadeBattlefront_672406_crop2608_-2141226214",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicDnPmaBbvlov+6nln0Qjs7v0HadejZF3d8kQPqCZpjspVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicDnPmaBbvlov+6nln0Qjs7bGYHyZFqZymZX/U4f9Arp5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "1622629413"
+      ],
+      "lt_id_sptag": [
+        "1956034203",
+        "-1216236529",
+        "-696045158"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1622629413",
+      "name_cl_nortag": "Blood Blockade Battlefront",
+      "total_img": 27,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-467032699",
+      "name_cl_nortag": "Boy",
+      "total_img": 8592,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1575827177",
+      "name_cl_nortag": "Unrefined",
+      "total_img": 824,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "1956034203",
+      "name_cl_sptag": "Boy Sad",
+      "name_parent": "Anime",
+      "total": 1551
+    },
+    {
+      "id_sptag": "990039523",
+      "name_cl_sptag": "Chain Sumeragi",
+      "name_parent": "Anime",
+      "total": 3
+    },
+    {
+      "id_sptag": "-729883027",
+      "name_cl_sptag": "Girls Eyes Violet",
+      "name_parent": "Anime",
+      "total": 6410
+    },
+    {
+      "id_sptag": "-1450260536",
+      "name_cl_sptag": "Girls Hair Blue",
+      "name_parent": "Anime",
+      "total": 9528
+    },
+    {
+      "id_sptag": "1410951528",
+      "name_cl_sptag": "Girls Short Hair",
+      "name_parent": "Anime",
+      "total": 23769
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-260062140",
+      "name_cl_sptag": "Girls Uniform",
+      "name_parent": "Anime",
+      "total": 16929
+    },
+    {
+      "id_sptag": "846928483",
+      "name_cl_sptag": "Klaus Von Reinherz",
+      "name_parent": "Anime",
+      "total": 2
+    },
+    {
+      "id_sptag": "-2057294372",
+      "name_cl_sptag": "Leonardo Watch",
+      "name_parent": "Anime",
+      "total": 14
+    },
+    {
+      "id_sptag": "-1216236529",
+      "name_cl_sptag": "Sad",
+      "name_parent": "Anime",
+      "total": 12057
+    },
+    {
+      "id_sptag": "256951417",
+      "name_cl_sptag": "Sonic Speed Monkey",
+      "name_parent": "Anime",
+      "total": 5
+    },
+    {
+      "id_sptag": "891993278",
+      "name_cl_sptag": "Steven A Starphase",
+      "name_parent": "Anime",
+      "total": 1
+    },
+    {
+      "id_sptag": "-696045158",
+      "name_cl_sptag": "Zapp Renfro",
+      "name_parent": "Anime",
+      "total": 4
+    }
+  ]
+}
