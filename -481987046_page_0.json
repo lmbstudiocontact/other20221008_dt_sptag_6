@@ -6,9 +6,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "308158362",
+  "hc_lt_data_img": "-2000920678",
   "hc_lt_nortag": "795950721",
-  "hc_lt_sptag": "41118736",
+  "hc_lt_sptag": "532439667",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-753917753",
-      "hc_lt_id_sptag": "1284878777",
+      "hc_lt_id_sptag": "-191861332",
       "id_img": "TheSevenDeadlySins_933801_crop2608_172274281",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiietIMQ2Y/7CEPktpxv8ioTz6cstStGaftNT2go9gFM7Z5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiietIMQ2Y/7CEPktpxv8ioTzADxer9kNkPU831/C+CXXw5Vy4706IhQgSYlgwrgVRHU=",
@@ -32,13 +32,14 @@
         "338511233"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "-481987046"
       ]
     },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-753917753",
-      "hc_lt_id_sptag": "1284878777",
+      "hc_lt_id_sptag": "-191861332",
       "id_img": "TheSevenDeadlySins_946104_crop2608_-23992509",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicyeiTd7yEm8ooRE/qFr77nEhmNxCFxEkKnHyICQ3Y+tZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicyeiTd7yEm8ooRE/qFr77nZvRQnDrD1VqYJnL0T5A1XpVy4706IhQgSYlgwrgVRHU=",
@@ -50,6 +51,7 @@
         "338511233"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "-481987046"
       ]
     }
@@ -69,6 +71,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
     {
       "id_sptag": "-481987046",
       "name_cl_sptag": "Zeldris The Seven Deadly Sins",

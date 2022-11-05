@@ -6,9 +6,9 @@
   "total_img": 11,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "51172775",
+  "hc_lt_data_img": "-848911569",
   "hc_lt_nortag": "426563354",
-  "hc_lt_sptag": "-1482803507",
+  "hc_lt_sptag": "170300354",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -19,11 +19,34 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1776877702",
+      "hc_lt_id_sptag": "484938497",
+      "id_img": "SnowWhitewiththeRedHair_654358_crop2608_-1455754514",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidkmDP+LvpAm35op2zIsXKSblousoc4ueacQK4+bTf74ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidkmDP+LvpAm35op2zIsXKSZ6OlO7K/SshkP7Nm/zvdtJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1182628656",
+        "-1722210625"
+      ],
+      "lt_id_sptag": [
+        "247350803",
+        "376240968",
+        "1627623413",
+        "-55244798",
+        "491824726",
+        "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1868648630",
-      "hc_lt_id_sptag": "-1390098982",
-      "id_img": "SnowWhitewiththeRedHair_654363_crop2608_1688339665",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicsi4N8VSmS1/zHMQZzu4PEbZHSGaqeEt9CgiZ06mxqNJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicsi4N8VSmS1/zHMQZzu4PEi1AhMynN+onh9KMF0GozBJVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "924275040",
+      "id_img": "SnowWhitewiththeRedHair_654356_crop2608_-302958448",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXkQNVOc6lkKksyJy5HdMqs176Dz3bTmIifFAd2CQiXZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXkQNVOc6lkKksyJy5HdMqhfdE7O7fe72jk0ju1MfqbpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -32,18 +55,18 @@
         "-1722210625"
       ],
       "lt_id_sptag": [
-        "-659743159",
         "247350803",
+        "1728965817",
         "-55244798"
       ]
     },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1868648630",
-      "hc_lt_id_sptag": "-1390098982",
-      "id_img": "SnowWhitewiththeRedHair_654367_crop2608_-302958416",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiezIyvFt4BAo8f9IpwQCG5j7WDZ1sBbahau73s5g8uqqpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiezIyvFt4BAo8f9IpwQCG5jBd39xLDHzrruqen/G7O5vpVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-800444714",
+      "id_img": "SnowWhitewiththeRedHair_654363_crop2608_482169726",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie33+xS1LZJLRKmQky9+ya749kOcN26EeYtNMOIfd8dA5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie33+xS1LZJLRKmQky9+ya7S3MC8jSRxuQ02CAD2B98MpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -54,6 +77,70 @@
       "lt_id_sptag": [
         "-659743159",
         "247350803",
+        "1728965817",
+        "-55244798"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1868648630",
+      "hc_lt_id_sptag": "465503381",
+      "id_img": "SnowWhitewiththeRedHair_707112_crop2608_-278859579",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifi00V+xCl44qoZRz7EiL/cv/VY1L11RQPalJ3MFx/+x5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifi00V+xCl44qoZRz7EiL/cXy5meGDGq2iSgclEUUn/rpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1728965817",
+        "-1722210625"
+      ],
+      "lt_id_sptag": [
+        "-2021130045",
+        "247350803",
+        "1728965817",
+        "-55244798"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1868648630",
+      "hc_lt_id_sptag": "465503381",
+      "id_img": "SnowWhitewiththeRedHair_687143_crop2608_-300100468",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieADSoHAu1wCr0IQBvw6Jp0Si+PRSeBkj2HORMbVEq9jJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieADSoHAu1wCr0IQBvw6Jp0n4ibSPAMdK6da+z2j0njvpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1728965817",
+        "-1722210625"
+      ],
+      "lt_id_sptag": [
+        "-2021130045",
+        "247350803",
+        "1728965817",
+        "-55244798"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1868648630",
+      "hc_lt_id_sptag": "465503381",
+      "id_img": "SnowWhitewiththeRedHair_696058_crop2608_-299207663",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic9K+lFwjm+7gzvOXZ8AFjW0LE7ftCbqjGPJoVCt9YK0JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic9K+lFwjm+7gzvOXZ8AFjWrDe3n1+V7Lwvt3aPaQ3fZ5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1728965817",
+        "-1722210625"
+      ],
+      "lt_id_sptag": [
+        "-2021130045",
+        "247350803",
+        "1728965817",
         "-55244798"
       ]
     },
@@ -84,111 +171,10 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1868648630",
-      "hc_lt_id_sptag": "-364631536",
-      "id_img": "SnowWhitewiththeRedHair_667261_crop2608_-301946489",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiegeZ7MEijEk9tsv4cTehtfwWswzlmrUVrij56E/Y0kA5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiegeZ7MEijEk9tsv4cTehtfN1QeTynbYzb1+MV7RWFDH5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1728965817",
-        "-1722210625"
-      ],
-      "lt_id_sptag": [
-        "247350803",
-        "-55244798"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1868648630",
-      "hc_lt_id_sptag": "451853371",
-      "id_img": "SnowWhitewiththeRedHair_687143_crop2608_-300100468",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieADSoHAu1wCr0IQBvw6Jp0Si+PRSeBkj2HORMbVEq9jJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieADSoHAu1wCr0IQBvw6Jp0n4ibSPAMdK6da+z2j0njvpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1728965817",
-        "-1722210625"
-      ],
-      "lt_id_sptag": [
-        "-2021130045",
-        "247350803",
-        "-55244798"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1868648630",
-      "hc_lt_id_sptag": "-364631536",
-      "id_img": "SnowWhitewiththeRedHair_654356_crop2608_-302958448",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXkQNVOc6lkKksyJy5HdMqs176Dz3bTmIifFAd2CQiXZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXkQNVOc6lkKksyJy5HdMqhfdE7O7fe72jk0ju1MfqbpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1728965817",
-        "-1722210625"
-      ],
-      "lt_id_sptag": [
-        "247350803",
-        "-55244798"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1868648630",
-      "hc_lt_id_sptag": "451853371",
-      "id_img": "SnowWhitewiththeRedHair_707112_crop2608_-278859579",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifi00V+xCl44qoZRz7EiL/cv/VY1L11RQPalJ3MFx/+x5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifi00V+xCl44qoZRz7EiL/cXy5meGDGq2iSgclEUUn/rpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1728965817",
-        "-1722210625"
-      ],
-      "lt_id_sptag": [
-        "-2021130045",
-        "247350803",
-        "-55244798"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1776877702",
-      "hc_lt_id_sptag": "484938497",
-      "id_img": "SnowWhitewiththeRedHair_654358_crop2608_-1455754514",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidkmDP+LvpAm35op2zIsXKSblousoc4ueacQK4+bTf74ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidkmDP+LvpAm35op2zIsXKSZ6OlO7K/SshkP7Nm/zvdtJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-1182628656",
-        "-1722210625"
-      ],
-      "lt_id_sptag": [
-        "247350803",
-        "376240968",
-        "1627623413",
-        "-55244798",
-        "491824726",
-        "1410951528"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1868648630",
-      "hc_lt_id_sptag": "-1390098982",
-      "id_img": "SnowWhitewiththeRedHair_654363_crop2608_482169726",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie33+xS1LZJLRKmQky9+ya749kOcN26EeYtNMOIfd8dA5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie33+xS1LZJLRKmQky9+ya7S3MC8jSRxuQ02CAD2B98MpVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-800444714",
+      "id_img": "SnowWhitewiththeRedHair_654367_crop2608_-302958416",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiezIyvFt4BAo8f9IpwQCG5j7WDZ1sBbahau73s5g8uqqpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiezIyvFt4BAo8f9IpwQCG5jBd39xLDHzrruqen/G7O5vpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -199,13 +185,14 @@
       "lt_id_sptag": [
         "-659743159",
         "247350803",
+        "1728965817",
         "-55244798"
       ]
     },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1868648630",
-      "hc_lt_id_sptag": "-364631536",
+      "hc_lt_id_sptag": "924275040",
       "id_img": "SnowWhitewiththeRedHair_654366_crop2608_808130644",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifN1i4HexCZqtsf4wu/euI8eR4ntUKVMWnG6mq06HfaGJVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifN1i4HexCZqtsf4wu/euI8aaYWzUm3LEJjV2vNyk4PsZVy4706IhQgSYlgwrgVRHU=",
@@ -218,16 +205,17 @@
       ],
       "lt_id_sptag": [
         "247350803",
+        "1728965817",
         "-55244798"
       ]
     },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1868648630",
-      "hc_lt_id_sptag": "451853371",
-      "id_img": "SnowWhitewiththeRedHair_696058_crop2608_-299207663",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic9K+lFwjm+7gzvOXZ8AFjW0LE7ftCbqjGPJoVCt9YK0JVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic9K+lFwjm+7gzvOXZ8AFjWrDe3n1+V7Lwvt3aPaQ3fZ5Vy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-800444714",
+      "id_img": "SnowWhitewiththeRedHair_654363_crop2608_1688339665",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicsi4N8VSmS1/zHMQZzu4PEbZHSGaqeEt9CgiZ06mxqNJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicsi4N8VSmS1/zHMQZzu4PEi1AhMynN+onh9KMF0GozBJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -236,8 +224,29 @@
         "-1722210625"
       ],
       "lt_id_sptag": [
-        "-2021130045",
+        "-659743159",
         "247350803",
+        "1728965817",
+        "-55244798"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1868648630",
+      "hc_lt_id_sptag": "924275040",
+      "id_img": "SnowWhitewiththeRedHair_667261_crop2608_-301946489",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiegeZ7MEijEk9tsv4cTehtfwWswzlmrUVrij56E/Y0kA5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiegeZ7MEijEk9tsv4cTehtfN1QeTynbYzb1+MV7RWFDH5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1728965817",
+        "-1722210625"
+      ],
+      "lt_id_sptag": [
+        "247350803",
+        "1728965817",
         "-55244798"
       ]
     }
@@ -268,6 +277,12 @@
       "name_cl_sptag": "Akagami no Shirayukihime",
       "name_parent": "Anime",
       "total": 4
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "491824726",

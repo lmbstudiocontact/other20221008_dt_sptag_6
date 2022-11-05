@@ -120,6 +120,33 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1662551372",
+      "hc_lt_id_sptag": "-828891849",
+      "id_img": "KantaiCollection_838972_crop2608_1766702630",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif1aH+Ou2OakqyIwir+AMCxY/LoNqxNwF72SLwRYgVXDJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif1aH+Ou2OakqyIwir+AMCxU3U8Fw9b/goYxaCX/ThRw5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "579558099",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "117222074",
+        "376240968",
+        "1812620118",
+        "1508952095",
+        "-260062140",
+        "-1165766878",
+        "-1823594757",
+        "1078827483",
+        "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "675592046",
       "hc_lt_id_sptag": "-1807736532",
       "id_img": "KantaiCollection_858355_crop2608_840546362",
@@ -318,33 +345,6 @@
         "-374475058",
         "622246525",
         "446973239"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1662551372",
-      "hc_lt_id_sptag": "-828891849",
-      "id_img": "KantaiCollection_838972_crop2608_1766702630",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif1aH+Ou2OakqyIwir+AMCxY/LoNqxNwF72SLwRYgVXDJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif1aH+Ou2OakqyIwir+AMCxU3U8Fw9b/goYxaCX/ThRw5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "579558099",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1230434216",
-        "117222074",
-        "376240968",
-        "1812620118",
-        "1508952095",
-        "-260062140",
-        "-1165766878",
-        "-1823594757",
-        "1078827483",
-        "1410951528"
       ]
     },
     {

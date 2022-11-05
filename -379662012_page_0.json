@@ -1,0 +1,75 @@
+{
+  "id_sptag": "-379662012",
+  "index_page": 0,
+  "name_cl_sptag": "Yayoi Kunizuka",
+  "name_parent": "Anime",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-786639653",
+  "hc_lt_nortag": "-1862037393",
+  "hc_lt_sptag": "-1333394345",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1431936933",
+      "hc_lt_id_sptag": "263460259",
+      "id_img": "PsychoPass_854649_crop2608_1566683504",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFgDsZ7I6Hqec6ofva0i38I0LQO74XozgmrN/OcnF/ZZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFgDsZ7I6Hqec6ofva0i38bNIjYRJqMXlK72tmBb8pKZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "444617086"
+      ],
+      "lt_id_sptag": [
+        "19767389",
+        "1321310285",
+        "-379662012",
+        "1040769361"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "444617086",
+      "name_cl_nortag": "PsychoPass",
+      "total_img": 17,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "1321310285",
+      "name_cl_sptag": "Akane Tsunemori",
+      "name_parent": "Anime",
+      "total": 8
+    },
+    {
+      "id_sptag": "19767389",
+      "name_cl_sptag": "Nobuchika Ginoza",
+      "name_parent": "Anime",
+      "total": 2
+    },
+    {
+      "id_sptag": "1040769361",
+      "name_cl_sptag": "Shinya Kogami",
+      "name_parent": "Anime",
+      "total": 6
+    },
+    {
+      "id_sptag": "-379662012",
+      "name_cl_sptag": "Yayoi Kunizuka",
+      "name_parent": "Anime",
+      "total": 1
+    }
+  ]
+}

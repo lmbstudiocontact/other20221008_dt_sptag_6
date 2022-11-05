@@ -6,9 +6,9 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "1999934046",
+  "hc_lt_data_img": "-2144624099",
   "hc_lt_nortag": "1316932186",
-  "hc_lt_sptag": "1492296283",
+  "hc_lt_sptag": "-1939629192",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -43,26 +43,6 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1368645968",
-      "hc_lt_id_sptag": "11768626",
-      "id_img": "BloodBlockadeBattlefront_970840_crop2608_-445827311",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidal1jiQNsDyUETsj159cQZ3CJoNoVlU/ABzO0WYKuB1pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidal1jiQNsDyUETsj159cQZT6sHLE6y3iCPP8UTpWBfIZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "1622629413"
-      ],
-      "lt_id_sptag": [
-        "-696045158",
-        "-2057294372",
-        "256951417"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1161450724",
       "hc_lt_id_sptag": "-665436644",
       "id_img": "BloodBlockadeBattlefront_672351_crop2608_630293344",
@@ -87,7 +67,28 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1368645968",
-      "hc_lt_id_sptag": "958776251",
+      "hc_lt_id_sptag": "-1796268443",
+      "id_img": "BloodBlockadeBattlefront_970840_crop2608_-445827311",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidal1jiQNsDyUETsj159cQZ3CJoNoVlU/ABzO0WYKuB1pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidal1jiQNsDyUETsj159cQZT6sHLE6y3iCPP8UTpWBfIZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "1622629413"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "-696045158",
+        "-2057294372",
+        "256951417"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1368645968",
+      "hc_lt_id_sptag": "-849260818",
       "id_img": "BloodBlockadeBattlefront_672406_crop2608_-2141226214",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicDnPmaBbvlov+6nln0Qjs7v0HadejZF3d8kQPqCZpjspVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicDnPmaBbvlov+6nln0Qjs7bGYHyZFqZymZX/U4f9Arp5Vy4706IhQgSYlgwrgVRHU=",
@@ -99,6 +100,7 @@
         "1622629413"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "1956034203",
         "-1216236529",
         "-696045158"
@@ -137,6 +139,12 @@
       "name_cl_sptag": "Boy Sad",
       "name_parent": "Anime",
       "total": 1551
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "990039523",

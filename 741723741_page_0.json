@@ -6,9 +6,9 @@
   "total_img": 5,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "141532354",
+  "hc_lt_data_img": "-84895836",
   "hc_lt_nortag": "1796930573",
-  "hc_lt_sptag": "-1135080662",
+  "hc_lt_sptag": "-2094772087",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -19,23 +19,22 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "973195047",
-      "hc_lt_id_sptag": "558068904",
-      "id_img": "MiraiNikki_850144_crop2608_1295741107",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZnJw34BlffXPY0S1gupOvr/IpzqVguLPfdQbLgLBxlpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZnJw34BlffXPY0S1gupOvgtXg0sSFatVqbl/o+4hzKpVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "-475563957",
+      "hc_lt_id_sptag": "779102573",
+      "id_img": "MiraiNikki_850153_crop2608_1614427997",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif0inJnc8PQEpmlMjIjGjzrTPEc3QzPyrjgvedD/fR1cJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif0inJnc8PQEpmlMjIjGjzrmPmfj7hbfh4bbVhJuXQn5JVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
       "list_id_nortag": [
-        "1872868709"
+        "1872868709",
+        "1728965817"
       ],
       "lt_id_sptag": [
-        "224545849",
         "741723741",
-        "1047704622",
-        "253689623",
-        "-1421789912"
+        "1728965817",
+        "253689623"
       ]
     },
     {
@@ -82,21 +81,23 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-475563957",
-      "hc_lt_id_sptag": "-1851241279",
-      "id_img": "MiraiNikki_850153_crop2608_1614427997",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif0inJnc8PQEpmlMjIjGjzrTPEc3QzPyrjgvedD/fR1cJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif0inJnc8PQEpmlMjIjGjzrmPmfj7hbfh4bbVhJuXQn5JVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "973195047",
+      "hc_lt_id_sptag": "558068904",
+      "id_img": "MiraiNikki_850144_crop2608_1295741107",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZnJw34BlffXPY0S1gupOvr/IpzqVguLPfdQbLgLBxlpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZnJw34BlffXPY0S1gupOvgtXg0sSFatVqbl/o+4hzKpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
       "list_id_nortag": [
-        "1872868709",
-        "1728965817"
+        "1872868709"
       ],
       "lt_id_sptag": [
+        "224545849",
         "741723741",
-        "253689623"
+        "1047704622",
+        "253689623",
+        "-1421789912"
       ]
     },
     {
@@ -141,6 +142,12 @@
       "name_cl_sptag": "Aru Akise",
       "name_parent": "Anime",
       "total": 4
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "-1421789912",

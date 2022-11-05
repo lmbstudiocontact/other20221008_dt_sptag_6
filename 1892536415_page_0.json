@@ -20,10 +20,10 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "936924046",
-      "hc_lt_id_sptag": "-1061951843",
-      "id_img": "GrisaiaSeries_707280_crop2608_-1503537982",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiczT7GtIJNq0N3mlPaJ3DUU+jGqUnu7XJ2sYRwRF2iZG5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiczT7GtIJNq0N3mlPaJ3DUUGiuePqXL6XR/z3XxwAbo1ZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-1996202873",
+      "id_img": "GrisaiaSeries_707268_crop2608_-1306957044",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidjEKWe2CRi7+SynOnwlS34I1hHEAFSGoOLbRCt3NEkipVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidjEKWe2CRi7+SynOnwlS34xeovtbS8bDm0HNiPqw8SJZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -33,20 +33,13 @@
       ],
       "lt_id_sptag": [
         "1892536415",
-        "-1230434216",
-        "1086375898",
+        "1545739930",
+        "-729883027",
         "-353024394",
-        "376240968",
-        "226155861",
+        "-1686571485",
+        "-1458542697",
         "1541647243",
-        "-1640821484",
-        "-1165766878",
-        "417173443",
-        "1078827483",
-        "274844535",
-        "-1358769180",
-        "1410951528",
-        "-1161239136"
+        "1078827483"
       ]
     },
     {
@@ -77,10 +70,10 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "936924046",
-      "hc_lt_id_sptag": "-1996202873",
-      "id_img": "GrisaiaSeries_707268_crop2608_-1306957044",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidjEKWe2CRi7+SynOnwlS34I1hHEAFSGoOLbRCt3NEkipVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidjEKWe2CRi7+SynOnwlS34xeovtbS8bDm0HNiPqw8SJZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-1061951843",
+      "id_img": "GrisaiaSeries_707280_crop2608_-1503537982",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiczT7GtIJNq0N3mlPaJ3DUU+jGqUnu7XJ2sYRwRF2iZG5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiczT7GtIJNq0N3mlPaJ3DUUGiuePqXL6XR/z3XxwAbo1ZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -90,13 +83,20 @@
       ],
       "lt_id_sptag": [
         "1892536415",
-        "1545739930",
-        "-729883027",
+        "-1230434216",
+        "1086375898",
         "-353024394",
-        "-1686571485",
-        "-1458542697",
+        "376240968",
+        "226155861",
         "1541647243",
-        "1078827483"
+        "-1640821484",
+        "-1165766878",
+        "417173443",
+        "1078827483",
+        "274844535",
+        "-1358769180",
+        "1410951528",
+        "-1161239136"
       ]
     }
   ],

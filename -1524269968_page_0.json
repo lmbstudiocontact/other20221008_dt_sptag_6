@@ -1,0 +1,117 @@
+{
+  "id_sptag": "-1524269968",
+  "index_page": 0,
+  "name_cl_sptag": "Yorktown Azur Lane",
+  "name_parent": "Anime",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "221814701",
+  "hc_lt_nortag": "1983839608",
+  "hc_lt_sptag": "-397341968",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-386264129",
+      "hc_lt_id_sptag": "138837711",
+      "id_img": "AzurLane_839531_crop2608_1548076818",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicWSJhrOnhvPFpKACesxaDOP7jbJUEtglRDlIOMZBHOfpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicWSJhrOnhvPFpKACesxaDOGoyK26/0uLNVZQ3TzAlGoZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1182628656",
+        "1415504783"
+      ],
+      "lt_id_sptag": [
+        "1271392973",
+        "-573818537",
+        "-353024394",
+        "1508952095",
+        "-260062140",
+        "-1823594757",
+        "-1524269968",
+        "1078827483",
+        "1429114096"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1415504783",
+      "name_cl_nortag": "Azur Lane",
+      "total_img": 185,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-573818537",
+      "name_cl_sptag": "Bilan Hangxian",
+      "name_parent": "Anime",
+      "total": 15
+    },
+    {
+      "id_sptag": "1429114096",
+      "name_cl_sptag": "Enterprise Azur Lane",
+      "name_parent": "Anime",
+      "total": 8
+    },
+    {
+      "id_sptag": "-1823594757",
+      "name_cl_sptag": "Girls Hair Silver",
+      "name_parent": "Anime",
+      "total": 16300
+    },
+    {
+      "id_sptag": "1271392973",
+      "name_cl_sptag": "Girls Hair White",
+      "name_parent": "Anime",
+      "total": 8666
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-260062140",
+      "name_cl_sptag": "Girls Uniform",
+      "name_parent": "Anime",
+      "total": 16929
+    },
+    {
+      "id_sptag": "1508952095",
+      "name_cl_sptag": "Girls Water Rain",
+      "name_parent": "Anime",
+      "total": 2954
+    },
+    {
+      "id_sptag": "-1524269968",
+      "name_cl_sptag": "Yorktown Azur Lane",
+      "name_parent": "Anime",
+      "total": 1
+    }
+  ]
+}

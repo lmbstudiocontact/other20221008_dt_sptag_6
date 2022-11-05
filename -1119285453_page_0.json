@@ -6,9 +6,9 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "477483552",
+  "hc_lt_data_img": "-679636930",
   "hc_lt_nortag": "2057512230",
-  "hc_lt_sptag": "-1952015503",
+  "hc_lt_sptag": "950877958",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1205210239",
-      "hc_lt_id_sptag": "86892829",
+      "hc_lt_id_sptag": "-127681462",
       "id_img": "Bleach_238766_crop2608_-301747911",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif2d9EcXvlOAHXYBgTdeZ56KTkQVaPduPXiSLVP3JOOVpVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif2d9EcXvlOAHXYBgTdeZ56C/ywX4Ju/iFoCKhbtxx6RZVy4706IhQgSYlgwrgVRHU=",
@@ -32,6 +32,7 @@
         "-1545815548"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "-1666763806",
         "-1176638482",
         "-1119285453",
@@ -41,26 +42,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1205210239",
-      "hc_lt_id_sptag": "122243001",
-      "id_img": "Bleach_238770_crop2608_-1697454529",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSWI9hb38hujYPomwdSxU/0GE5QDdLxFMrXybr2L+nm5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSWI9hb38hujYPomwdSxU/9In973bM4N0L/P/cvOowm5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "-1545815548"
-      ],
-      "lt_id_sptag": [
-        "-1119285453",
-        "105837710"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1205210239",
-      "hc_lt_id_sptag": "1362652951",
+      "hc_lt_id_sptag": "-114087158",
       "id_img": "Bleach_238768_crop2608_-2011407768",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidKxE22ZsdURR4K6PRNCzlJ6YIYuhWQsohYJkBCWFMH85Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidKxE22ZsdURR4K6PRNCzlJk14QKOXBdZ7ncNels/gML5Vy4706IhQgSYlgwrgVRHU=",
@@ -72,7 +54,28 @@
         "-1545815548"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "-1119285453"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1205210239",
+      "hc_lt_id_sptag": "1587939878",
+      "id_img": "Bleach_238770_crop2608_-1697454529",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSWI9hb38hujYPomwdSxU/0GE5QDdLxFMrXybr2L+nm5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSWI9hb38hujYPomwdSxU/9In973bM4N0L/P/cvOowm5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-1545815548"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "-1119285453",
+        "105837710"
       ]
     }
   ],
@@ -96,6 +99,12 @@
       "name_cl_sptag": "Boy Dark Black",
       "name_parent": "Anime",
       "total": 573
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "-1176638482",

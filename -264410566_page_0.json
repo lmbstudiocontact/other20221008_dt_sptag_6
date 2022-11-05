@@ -6,9 +6,9 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-1124818045",
+  "hc_lt_data_img": "1407819086",
   "hc_lt_nortag": "-1138023803",
-  "hc_lt_sptag": "2009054778",
+  "hc_lt_sptag": "1205628044",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-763454568",
-      "hc_lt_id_sptag": "1296756695",
+      "hc_lt_id_sptag": "-511280374",
       "id_img": "LoveandLies_860363_crop2608_-2076690382",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic2H3mfTNmOgc+IuKlBsEnlD4aD1cd9sjCy99YpfegPh5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic2H3mfTNmOgc+IuKlBsEnlJCMn3g3oANd8GPmWirKmrZVy4706IhQgSYlgwrgVRHU=",
@@ -32,26 +32,9 @@
         "362829787"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "1956034203",
         "-1216236529",
-        "-264410566"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "57175949",
-      "hc_lt_id_sptag": "-368103292",
-      "id_img": "LoveandLies_860363_crop2608_-1349242209",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidK1dM74OdAEkGAy+36qT07w74LoD7WhgLkev3LPFllWZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidK1dM74OdAEkGAy+36qT07bGKzgHpxSnhPh/xC42bKWJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "362829787",
-        "1728965817"
-      ],
-      "lt_id_sptag": [
         "-264410566"
       ]
     },
@@ -82,6 +65,25 @@
         "491824726",
         "467732324",
         "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "57175949",
+      "hc_lt_id_sptag": "-1163252780",
+      "id_img": "LoveandLies_860363_crop2608_-1349242209",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidK1dM74OdAEkGAy+36qT07w74LoD7WhgLkev3LPFllWZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidK1dM74OdAEkGAy+36qT07bGKzgHpxSnhPh/xC42bKWJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "362829787",
+        "1728965817"
+      ],
+      "lt_id_sptag": [
+        "1728965817",
+        "-264410566"
       ]
     }
   ],
@@ -117,6 +119,18 @@
       "name_cl_sptag": "Boy Sad",
       "name_parent": "Anime",
       "total": 1551
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "491824726",
